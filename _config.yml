@@ -98,9 +98,6 @@ menu:
   categories: /categories
   tags: /tags
 
-# 社交
-social:
-  GitHub: https://github.com/csdnshyang
 
 jsonContent:
     meta: false
