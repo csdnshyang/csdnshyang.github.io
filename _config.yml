@@ -43,7 +43,7 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-  
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -52,7 +52,7 @@ index_generator:
   path: ''
   per_page: 10
   order_by: -date
-  
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -80,4 +80,24 @@ theme: next
 deploy:
   type: git
   repo: git@github.com:csdnshyang/csdnshyang.github.io.git  #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
-  branch: master 
+  branch: master
+
+
+###########  自己配置
+# 留言
+duoshuo:
+  enable: true
+  shortname: your-duoshuo-shortname
+
+disqus_shortname: your-disqus-shortname
+
+# 标签页和分类页
+menu:
+  home: /
+  archives: /archives
+  categories: /categories
+  tags: /tags
+
+# 社交
+social:
+  GitHub: https://github.com/csdnshyang
