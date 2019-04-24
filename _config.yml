@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 史海洋的博客
 subtitle:
 description:
-keywords:
-author: John Doe
+keywords: Java, 架构师, 计算机原理, 操作系统, Unix, Kubernetes
+author: csdnshyang
 language:
 timezone:
 
