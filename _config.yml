@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 史海洋的博客
+title: 四月枇杷叶
 subtitle:
 description:
 keywords: Java, 架构师, 计算机原理, 操作系统, Unix, Kubernetes
@@ -92,11 +92,11 @@ duoshuo:
 disqus_shortname: your-disqus-shortname
 
 # 标签页和分类页
-menu:
-  home: /
-  archives: /archives
-  categories: /categories
-  tags: /tags
+# menu:
+#   home: /
+#   archives: /archives
+#   categories: /categories
+#   tags: /tags
 
 
 jsonContent:
